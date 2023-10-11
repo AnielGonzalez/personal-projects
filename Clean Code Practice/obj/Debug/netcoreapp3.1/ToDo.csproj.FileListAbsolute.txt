@@ -1,0 +1,13 @@
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.exe
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.deps.json
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.json
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.dll
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\bin\Debug\netcoreapp3.1\ToDo.pdb
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.dll
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.pdb
+C:\Users\Adrian\Desktop\curso-codigo-limpio-csharp-7-mejorasdecsharp\obj\Debug\netcoreapp3.1\ToDo.genruntimeconfig.cache
