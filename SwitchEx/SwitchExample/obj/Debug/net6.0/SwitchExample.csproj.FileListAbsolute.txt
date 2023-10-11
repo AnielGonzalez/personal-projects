@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.exe
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.deps.json
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.runtimeconfig.json
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.dll
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.pdb
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.dll
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\refint\SwitchExample.dll
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.pdb
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.genruntimeconfig.cache
+C:\Users\Adrian\source\repos\SwitchExample\SwitchExample\obj\Debug\net6.0\ref\SwitchExample.dll
